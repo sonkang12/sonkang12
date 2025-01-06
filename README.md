@@ -1,16 +1,33 @@
-## Hi there 👋
+# Halo, Saya Eky - aka [Sonkang](https://www.youtube.com/@SON.KANG142) 👋
+## Tentang Saya:
+- 🔭 Saya hanya bisa melakukan kodingan biasa
+- 🌱 Saya masih belajar tentang kodingan
+- 👯 Saya berharap di donate
+- 🤔 Saya memerlukan ide untuk konten saya
+- 😊 Kalian bisa donate saya di link ini(https://sociabuzz.com/sonkang/tribe) 
+- 📫 How to reach me: vincentwidyan@gmail.com
 
-<!--
-**sonkang12/sonkang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [Universitas MUhammadiyah Bengkulu] | Teknik Informatika | Bengkulu `2023 - Sekaran`
+   - Sedang Berjalan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #### 2. [SKM N 3 BENGKULU]) | TKJ | Bengkulu `2019 - 2022`
+   - Teknisi Komputer
+
+
+---
+
+
+
+<br />
+<br />
+
+---
+### Connect with me:
+
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
+
+
+
+[webdev]: https://github.com/vincentwidyan/vincentwidyan
